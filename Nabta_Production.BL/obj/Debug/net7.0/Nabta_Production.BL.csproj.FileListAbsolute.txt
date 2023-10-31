@@ -1,0 +1,17 @@
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.BL\bin\Debug\net7.0\Nabta_Production.BL.deps.json
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.BL\bin\Debug\net7.0\Nabta_Production.BL.dll
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.BL\bin\Debug\net7.0\Nabta_Production.BL.pdb
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.BL\obj\Debug\net7.0\Nabta_Production.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.BL\obj\Debug\net7.0\Nabta_Production.BL.AssemblyInfoInputs.cache
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.BL\obj\Debug\net7.0\Nabta_Production.BL.AssemblyInfo.cs
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.BL\obj\Debug\net7.0\Nabta_Production.BL.csproj.CoreCompileInputs.cache
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.BL\obj\Debug\net7.0\Nabta_Production.BL.dll
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.BL\obj\Debug\net7.0\refint\Nabta_Production.BL.dll
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.BL\obj\Debug\net7.0\Nabta_Production.BL.pdb
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.BL\obj\Debug\net7.0\ref\Nabta_Production.BL.dll
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.BL\bin\Debug\net7.0\Nabta_Production.DAL.dll
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.BL\bin\Debug\net7.0\Nabta_Production.DAL.pdb
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.BL\obj\Debug\net7.0\Nabta_Production.BL.csproj.AssemblyReference.cache
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.BL\obj\Debug\net7.0\Nabta_Production.BL.csproj.CopyComplete
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.BL\bin\Debug\net7.0\VodafoneSMS.dll
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.BL\bin\Debug\net7.0\VodafoneSMS.pdb

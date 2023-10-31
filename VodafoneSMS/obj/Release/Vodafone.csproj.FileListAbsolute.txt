@@ -1,0 +1,35 @@
+E:\IDSC\MobileServices\VodafoneSMS\bin\Release\VodafoneSMS.dll
+E:\IDSC\MobileServices\VodafoneSMS\bin\Release\VodafoneSMS.pdb
+E:\IDSC\MobileServices\VodafoneSMS\obj\Release\VodafoneSMS.dll
+E:\IDSC\MobileServices\VodafoneSMS\obj\Release\VodafoneSMS.pdb
+D:\WorkProjects\Mobile\MobileServices\VodafoneSMS\bin\Release\VodafoneSMS.dll
+D:\WorkProjects\Mobile\MobileServices\VodafoneSMS\bin\Release\VodafoneSMS.pdb
+D:\WorkProjects\Mobile\MobileServices\VodafoneSMS\obj\Release\Vodafone.csprojResolveAssemblyReference.cache
+D:\WorkProjects\Mobile\MobileServices\VodafoneSMS\obj\Release\VodafoneSMS.dll
+D:\WorkProjects\Mobile\MobileServices\VodafoneSMS\obj\Release\VodafoneSMS.pdb
+E:\IDSC\Egaby\MobileServices\VodafoneSMS\bin\Release\VodafoneSMS.dll
+E:\IDSC\Egaby\MobileServices\VodafoneSMS\bin\Release\VodafoneSMS.pdb
+E:\IDSC\Egaby\MobileServices\VodafoneSMS\obj\Release\Vodafone.csprojResolveAssemblyReference.cache
+E:\IDSC\Egaby\MobileServices\VodafoneSMS\obj\Release\VodafoneSMS.dll
+E:\IDSC\Egaby\MobileServices\VodafoneSMS\obj\Release\VodafoneSMS.pdb
+D:\Ramez\MobileServices 2-3-2018\MobileServices\VodafoneSMS\bin\Release\VodafoneSMS.dll
+D:\Ramez\MobileServices 2-3-2018\MobileServices\VodafoneSMS\bin\Release\VodafoneSMS.pdb
+D:\Ramez\MobileServices 2-3-2018\MobileServices\VodafoneSMS\obj\Release\Vodafone.csprojResolveAssemblyReference.cache
+D:\Ramez\MobileServices 2-3-2018\MobileServices\VodafoneSMS\obj\Release\VodafoneSMS.dll
+D:\Ramez\MobileServices 2-3-2018\MobileServices\VodafoneSMS\obj\Release\VodafoneSMS.pdb
+D:\Ramez\في خدمتك\versions\4\MobileServices\VodafoneSMS\bin\Release\VodafoneSMS.dll
+D:\Ramez\في خدمتك\versions\4\MobileServices\VodafoneSMS\bin\Release\VodafoneSMS.pdb
+D:\Ramez\في خدمتك\versions\4\MobileServices\VodafoneSMS\obj\Release\Vodafone.csprojResolveAssemblyReference.cache
+D:\Ramez\في خدمتك\versions\4\MobileServices\VodafoneSMS\obj\Release\VodafoneSMS.dll
+D:\Ramez\في خدمتك\versions\4\MobileServices\VodafoneSMS\obj\Release\VodafoneSMS.pdb
+I:\Ramez\في خدمتك\versions\4\MobileServices\VodafoneSMS\bin\Release\VodafoneSMS.dll
+I:\Ramez\في خدمتك\versions\4\MobileServices\VodafoneSMS\bin\Release\VodafoneSMS.pdb
+I:\Ramez\في خدمتك\versions\4\MobileServices\VodafoneSMS\obj\Release\Vodafone.csproj.CoreCompileInputs.cache
+I:\Ramez\في خدمتك\versions\4\MobileServices\VodafoneSMS\obj\Release\VodafoneSMS.dll
+I:\Ramez\في خدمتك\versions\4\MobileServices\VodafoneSMS\obj\Release\VodafoneSMS.pdb
+C:\Users\idsc\Desktop\Khaled Badawy\VodafoneSMS\bin\Release\VodafoneSMS.dll
+C:\Users\idsc\Desktop\Khaled Badawy\VodafoneSMS\bin\Release\VodafoneSMS.pdb
+C:\Users\idsc\Desktop\Khaled Badawy\VodafoneSMS\obj\Release\Vodafone.csproj.AssemblyReference.cache
+C:\Users\idsc\Desktop\Khaled Badawy\VodafoneSMS\obj\Release\Vodafone.csproj.CoreCompileInputs.cache
+C:\Users\idsc\Desktop\Khaled Badawy\VodafoneSMS\obj\Release\VodafoneSMS.dll
+C:\Users\idsc\Desktop\Khaled Badawy\VodafoneSMS\obj\Release\VodafoneSMS.pdb

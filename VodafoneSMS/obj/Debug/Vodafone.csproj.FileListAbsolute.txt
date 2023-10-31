@@ -1,0 +1,56 @@
+E:\IDSC\MobileServices\VodafoneSMS\bin\Debug\VodafoneSMS.dll
+E:\IDSC\MobileServices\VodafoneSMS\bin\Debug\VodafoneSMS.pdb
+E:\IDSC\MobileServices\VodafoneSMS\obj\Debug\Vodafone.csprojResolveAssemblyReference.cache
+E:\IDSC\MobileServices\VodafoneSMS\obj\Debug\VodafoneSMS.dll
+E:\IDSC\MobileServices\VodafoneSMS\obj\Debug\VodafoneSMS.pdb
+D:\WorkProjects\Mobile\MobileServices\VodafoneSMS\bin\Debug\VodafoneSMS.dll
+D:\WorkProjects\Mobile\MobileServices\VodafoneSMS\bin\Debug\VodafoneSMS.pdb
+D:\WorkProjects\Mobile\MobileServices\VodafoneSMS\obj\Debug\VodafoneSMS.dll
+D:\WorkProjects\Mobile\MobileServices\VodafoneSMS\obj\Debug\VodafoneSMS.pdb
+D:\WorkProjects\Mobile\MobileServices\VodafoneSMS\obj\Debug\Vodafone.csprojResolveAssemblyReference.cache
+E:\IDSC\Egaby\MobileServices\VodafoneSMS\bin\Debug\VodafoneSMS.dll
+E:\IDSC\Egaby\MobileServices\VodafoneSMS\bin\Debug\VodafoneSMS.pdb
+E:\IDSC\Egaby\MobileServices\VodafoneSMS\obj\Debug\Vodafone.csprojResolveAssemblyReference.cache
+E:\IDSC\Egaby\MobileServices\VodafoneSMS\obj\Debug\VodafoneSMS.dll
+E:\IDSC\Egaby\MobileServices\VodafoneSMS\obj\Debug\VodafoneSMS.pdb
+D:\Ramez\MobileServices 2-3-2018\MobileServices\VodafoneSMS\bin\Debug\VodafoneSMS.dll
+D:\Ramez\MobileServices 2-3-2018\MobileServices\VodafoneSMS\bin\Debug\VodafoneSMS.pdb
+D:\Ramez\MobileServices 2-3-2018\MobileServices\VodafoneSMS\obj\Debug\VodafoneSMS.dll
+D:\Ramez\MobileServices 2-3-2018\MobileServices\VodafoneSMS\obj\Debug\VodafoneSMS.pdb
+D:\Ramez\في خدمتك\MobileServices\VodafoneSMS\bin\Debug\VodafoneSMS.dll
+D:\Ramez\في خدمتك\MobileServices\VodafoneSMS\bin\Debug\VodafoneSMS.pdb
+D:\Ramez\في خدمتك\MobileServices\VodafoneSMS\obj\Debug\VodafoneSMS.dll
+D:\Ramez\في خدمتك\MobileServices\VodafoneSMS\obj\Debug\VodafoneSMS.pdb
+D:\Ramez\في خدمتك\versions\2\MobileServices\VodafoneSMS\bin\Debug\VodafoneSMS.dll
+D:\Ramez\في خدمتك\versions\2\MobileServices\VodafoneSMS\bin\Debug\VodafoneSMS.pdb
+D:\Ramez\في خدمتك\versions\2\MobileServices\VodafoneSMS\obj\Debug\VodafoneSMS.dll
+D:\Ramez\في خدمتك\versions\2\MobileServices\VodafoneSMS\obj\Debug\VodafoneSMS.pdb
+D:\Ramez\في خدمتك\versions\2\MobileServices\VodafoneSMS\obj\Debug\Vodafone.csprojResolveAssemblyReference.cache
+D:\Ramez\في خدمتك\versions\4\MobileServices\VodafoneSMS\bin\Debug\VodafoneSMS.dll
+D:\Ramez\في خدمتك\versions\4\MobileServices\VodafoneSMS\bin\Debug\VodafoneSMS.pdb
+D:\Ramez\في خدمتك\versions\4\MobileServices\VodafoneSMS\obj\Debug\VodafoneSMS.dll
+D:\Ramez\في خدمتك\versions\4\MobileServices\VodafoneSMS\obj\Debug\VodafoneSMS.pdb
+I:\Ramez\في خدمتك\versions\4\MobileServices\VodafoneSMS\bin\Debug\VodafoneSMS.dll
+I:\Ramez\في خدمتك\versions\4\MobileServices\VodafoneSMS\bin\Debug\VodafoneSMS.pdb
+I:\Ramez\في خدمتك\versions\4\MobileServices\VodafoneSMS\obj\Debug\Vodafone.csproj.CoreCompileInputs.cache
+I:\Ramez\في خدمتك\versions\4\MobileServices\VodafoneSMS\obj\Debug\VodafoneSMS.dll
+I:\Ramez\في خدمتك\versions\4\MobileServices\VodafoneSMS\obj\Debug\VodafoneSMS.pdb
+I:\Ramez\في خدمتك\versions\4\MobileServices\VodafoneSMS\obj\Debug\Vodafone.csproj.AssemblyReference.cache
+C:\Users\idsc\Desktop\Khaled Badawy\VodafoneSMS\bin\Debug\VodafoneSMS.dll
+C:\Users\idsc\Desktop\Khaled Badawy\VodafoneSMS\bin\Debug\VodafoneSMS.pdb
+C:\Users\idsc\Desktop\Khaled Badawy\VodafoneSMS\obj\Debug\Vodafone.csproj.AssemblyReference.cache
+C:\Users\idsc\Desktop\Khaled Badawy\VodafoneSMS\obj\Debug\Vodafone.csproj.CoreCompileInputs.cache
+C:\Users\idsc\Desktop\Khaled Badawy\VodafoneSMS\obj\Debug\VodafoneSMS.dll
+C:\Users\idsc\Desktop\Khaled Badawy\VodafoneSMS\obj\Debug\VodafoneSMS.pdb
+C:\Users\idsc\Desktop\Nabta_Notification_error\VodafoneSMS\bin\Debug\VodafoneSMS.dll
+C:\Users\idsc\Desktop\Nabta_Notification_error\VodafoneSMS\bin\Debug\VodafoneSMS.pdb
+C:\Users\idsc\Desktop\Nabta_Notification_error\VodafoneSMS\obj\Debug\Vodafone.csproj.AssemblyReference.cache
+C:\Users\idsc\Desktop\Nabta_Notification_error\VodafoneSMS\obj\Debug\Vodafone.csproj.CoreCompileInputs.cache
+C:\Users\idsc\Desktop\Nabta_Notification_error\VodafoneSMS\obj\Debug\VodafoneSMS.dll
+C:\Users\idsc\Desktop\Nabta_Notification_error\VodafoneSMS\obj\Debug\VodafoneSMS.pdb
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\VodafoneSMS\bin\Debug\VodafoneSMS.dll
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\VodafoneSMS\bin\Debug\VodafoneSMS.pdb
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\VodafoneSMS\obj\Debug\Vodafone.csproj.AssemblyReference.cache
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\VodafoneSMS\obj\Debug\Vodafone.csproj.CoreCompileInputs.cache
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\VodafoneSMS\obj\Debug\VodafoneSMS.dll
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\VodafoneSMS\obj\Debug\VodafoneSMS.pdb

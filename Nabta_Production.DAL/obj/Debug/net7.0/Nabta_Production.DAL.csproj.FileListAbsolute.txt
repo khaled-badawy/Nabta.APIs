@@ -1,0 +1,14 @@
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.DAL\bin\Debug\net7.0\Nabta_Production.DAL.deps.json
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.DAL\bin\Debug\net7.0\Nabta_Production.DAL.runtimeconfig.json
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.DAL\bin\Debug\net7.0\Nabta_Production.DAL.dll
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.DAL\bin\Debug\net7.0\Nabta_Production.DAL.pdb
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.DAL\obj\Debug\net7.0\Nabta_Production.DAL.csproj.AssemblyReference.cache
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.DAL\obj\Debug\net7.0\Nabta_Production.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.DAL\obj\Debug\net7.0\Nabta_Production.DAL.AssemblyInfoInputs.cache
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.DAL\obj\Debug\net7.0\Nabta_Production.DAL.AssemblyInfo.cs
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.DAL\obj\Debug\net7.0\Nabta_Production.DAL.csproj.CoreCompileInputs.cache
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.DAL\obj\Debug\net7.0\Nabta_Production.DAL.dll
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.DAL\obj\Debug\net7.0\refint\Nabta_Production.DAL.dll
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.DAL\obj\Debug\net7.0\Nabta_Production.DAL.pdb
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.DAL\obj\Debug\net7.0\Nabta_Production.DAL.genruntimeconfig.cache
+C:\Users\idsc\Desktop\Re_Nabta_Production_test\Nabta_Production.APIs\Nabta_Production.DAL\obj\Debug\net7.0\ref\Nabta_Production.DAL.dll
