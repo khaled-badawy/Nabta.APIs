@@ -1257,6 +1257,8 @@ namespace Nabta_Production.APIs.Controllers
 
         public async Task<ActionResult> SendEmailTest()
         {
+            // just test the service
+
             var isSent = await _emailManager.SendEmail("idsc44139@gmail.com", "Khaled Test Sending", "HIIIII !!!!! email is sent.");
             if (isSent) return Ok();
             
