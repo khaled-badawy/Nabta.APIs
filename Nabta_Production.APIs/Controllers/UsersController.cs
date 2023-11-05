@@ -565,7 +565,7 @@ namespace Nabta_Production.APIs.Controllers
             if (user == null) return BadRequest();
 
             var activationCode = new Random().Next(100000, 999999).ToString();
-            var SmsResult = _smsManager.SendSMS(updatePhoneDto.NewUserPhone, $"{activationCode}: كود التفعيل الخاص بكم");
+            var SmsResult = _smsManager.SendSMS(updatePhoneDto.NewUserPhone, $"{activationCode}: كود التفعيل الخاص بكم بتطبيق نبتا");
             if (SmsResult is  null) return BadRequest();
             user.ActivationCode = activationCode;
             user.PhoneNumberConfirmed = false;
@@ -850,7 +850,7 @@ namespace Nabta_Production.APIs.Controllers
                 return BadRequest(result.Errors);
             }
 
-            _smsManager.SendSMS(credentials.UserName, $"{activationCode}: كود التفعيل");
+            _smsManager.SendSMS(credentials.UserName, $"{activationCode}: كود التفعيل الخاص بكم بتطبيق نبتا");
 
             return Ok(new { UserToken = userTokenString, ResetPasswordToken = phoneTokenString });
         }
@@ -931,7 +931,7 @@ namespace Nabta_Production.APIs.Controllers
                     return BadRequest(result.Errors);
                 }
 
-                _smsManager.SendSMS(userToReactivateAccount.UserName, $"{activationCode}:  كود التفعيل الخاص بكم");
+                _smsManager.SendSMS(userToReactivateAccount.UserName, $"{activationCode}:  كود التفعيل الخاص بكم بتطبيق نبتا");
 
                 var jwt = await _authManager.CreateJwtToken(user);
                 var tokenHandler = new JwtSecurityTokenHandler();
@@ -1054,7 +1054,7 @@ namespace Nabta_Production.APIs.Controllers
 
             var emailResult = await _emailManager.SendEmail(newUser.Email, "IDSC nabta", emailMsg);
 
-            var SmsResult = _smsManager.SendSMS(newUser.PhoneNumber, $"{activationCode}: كود التفعيل الخاص بكم");
+            var SmsResult = _smsManager.SendSMS(newUser.PhoneNumber, $"{activationCode}: كود التفعيل الخاص بكم بتطبيق نبتا");
 
             string? uploadImageResult = string.Empty;
 
@@ -1344,6 +1344,27 @@ namespace Nabta_Production.APIs.Controllers
 
             //    return BadRequest(message);
             //}
+        }
+
+        #endregion
+
+        #region Add Access Token Notification
+
+        [HttpPost]
+        [Authorize]
+        [Route("AddAccessToken")]
+
+        public async Task<ActionResult> AddAccessToken(AddAccessTokenDto dto)
+        {
+            ApplicationUser? user = await _userManager.GetUserAsync(User); 
+            if (user is null) return BadRequest();
+
+            user.AccessToken = dto.AccessToken;
+            var updateResult = await _userManager.UpdateAsync(user);
+
+            if (!updateResult.Succeeded) return BadRequest();
+
+            return Ok("Access token updated successfully");
         }
 
         #endregion
